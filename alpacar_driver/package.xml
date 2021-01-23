@@ -1,14 +1,14 @@
 <?xml version="1.0"?>
 <package format="2">
-  <name>alpacar-driver</name>
+  <name>alpacar_driver</name>
   <version>0.0.0</version>
-  <description>The alpacar-driver package</description>
+  <description>The alpacar_driver package</description>
 
   <maintainer email="takumi.kodama@example.com">Takumi Kodama</maintainer>
 
   <license>MIT</license>
 
-  <url type="repository">https://github.com/takumi4424/alpacar-driver</url>
+  <url type="repository">https://github.com/takumi4424/alpacar</url>
 
   <!-- The *depend tags are used to specify dependencies -->
   <!-- Dependencies can be catkin packages or system dependencies -->
